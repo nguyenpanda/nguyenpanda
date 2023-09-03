@@ -5,31 +5,31 @@
   - **Major:** Artificial Intelligence🧠
   - **Hobby:** Swimming🏊‍♂️
   <p align="left">
-    <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/01_logobachkhoatoi.png"></code>
+    <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/BKU.png"></code>
     I'm currently in my second year of studying
   </p>
   <p><strong>Computer Science</strong> at <a href="https://oisp.hcmut.edu.vn/"><strong>Ho Chi Minh City University of Technology</strong></a></p>
-  <!-- <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Queensland.png"></code> <!--  Queensland -->
+  <!-- <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Queensland.icon.png"></code> <!--  Queensland -->
 
 # Skills ⚙️
 ### Programming Language
-  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/icons8-python-240.png"></code> <!-- Python 2 -->
-  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/icons8-c-240.png"></code> <!-- C++ -->
+  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Python.icon.png"></code> <!-- Python 2 -->
+  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/C%2B%2B.icon.png"></code> <!-- C++ -->
   <!-- <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Python.logo.png"></code> Python 1 -->
 
 ### Tools
-  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/icons8-numpy-480.png"></code> <!-- Numpy -->
-  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/icons8-pandas-480.png"></code> <!-- Pandas -->
-  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/icons8-matlab-240.png"></code> <!-- MatLab -->
-  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Arduino.icon.png"></code> <!-- Arduino -->
-  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/icons8-latex-240.png"></code> <!-- LaTex -->
+  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/NumPy.icon.png"></code> <!-- Numpy -->
+  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Pandas.icon.png"></code> <!-- Pandas -->
+  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Matlab.icon.png"></code> <!-- MatLab -->
+  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Arduino.icon.png"></code> <!-- Arduino -->
+  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/LaTex.icon.png"></code> <!-- LaTex -->
 
 ### IDE & Text Editor I Love
-  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/PyCharm.icon.png"></code> <!-- PyCharm -->
-  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/icons8-xcode-480.png"></code> <!-- Xcode -->
-  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Clion.icon.png"></code> <!-- CLion -->
-  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/icons8-visual-studio-code-2019-480.png"></code> <!-- VSC -->
-  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/icons8-sublime-text-480.png"></code> <!-- Sublime Text -->
+  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/PyCharm.icon.png"></code> <!-- PyCharm -->
+  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Xcode.icon.png"></code> <!-- Xcode -->
+  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Clion.icon.png"></code> <!-- CLion -->
+  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/VSC.icon.png"></code> <!-- VSC -->
+  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/SublimeText.icons.png"></code> <!-- Sublime Text -->
 
 # Experience 👨‍💻
   - None
