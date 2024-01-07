@@ -10,11 +10,13 @@
   </p>
   <p><strong>Computer Science</strong> at <a href="https://oisp.hcmut.edu.vn/"><strong>Ho Chi Minh City University of Technology</strong></a></p>
   <!-- <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Queensland.icon.png"></code> <!--  Queensland -->
+  <!-- <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Monash.icon.png"></code> <!--  Monash -->
 
 # Skills ⚙️
 ### Programming Language
   <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Python.icon.png"></code> <!-- Python 2 -->
   <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/C%2B%2B.icon.png"></code> <!-- C++ -->
+  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Java.icon.png"></code> <!-- Java -->
   <!-- <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Python.logo.png"></code> Python 1 -->
 
 ### Tools
@@ -38,3 +40,4 @@
   - March 2023: [Python Game](https://github.com/nguyenpanda/Python-Game.git)
   - April 2023: [Taylor series in Python](https://github.com/nguyenpanda/Taylor-Series)
   - September 2023: [OISP English Club website](https://github.com/nguyenpanda/OECWebsite)
+  - Junuary 2024: [For the Love of Neural Networks](https://github.com/nguyenpanda/For-the-Love-of-Neural-Networks)
