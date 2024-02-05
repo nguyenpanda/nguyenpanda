@@ -37,7 +37,7 @@
   - None
 
 # Project 💻
-  - March 2023: [Python Game](https://github.com/nguyenpanda/Python-Game.git)
-  - April 2023: [Taylor series in Python](https://github.com/nguyenpanda/Taylor-Series)
+  - March 2023: [Python Game](https://github.com/nguyenpanda/Learning-Python/blob/master/Small_Project_TN_Made/TheBigBookOfSmallPythonProject/Project1_BagelsGame.py)
+  - April 2023: [Taylor series in Python](https://github.com/nguyenpanda/Learning-Python/blob/master/Small_Project_TN_Made/Math%20with%20Python/TaylorExpansion.py)
   - September 2023: [OISP English Club website](https://github.com/nguyenpanda/OECWebsite)
   - Junuary 2024: [For the Love of Neural Networks](https://github.com/nguyenpanda/For-the-Love-of-Neural-Networks)
