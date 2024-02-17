@@ -22,6 +22,7 @@
 ### Tools
   <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/NumPy.icon.png"></code> <!-- Numpy -->
   <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Pandas.icon.png"></code> <!-- Pandas -->
+  <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Pydantic.icon.svg"></code> <!-- Pydantic -->
   <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Matlab.icon.png"></code> <!-- MatLab -->
   <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Arduino.icon.png"></code> <!-- Arduino -->
   <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/LaTex.icon.png"></code> <!-- LaTex -->
