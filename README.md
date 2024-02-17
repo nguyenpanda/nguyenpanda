@@ -42,4 +42,4 @@
   - April 2023: [Taylor series in Python](https://github.com/nguyenpanda/Learning-Python/blob/master/Small_Project_TN_Made/Math%20with%20Python/TaylorExpansion.py)
   - September 2023: [OISP English Club website](https://github.com/nguyenpanda/OECWebsite)
   - January 2024: [For the Love of Neural Networks](https://github.com/nguyenpanda/For-the-Love-of-Neural-Networks)
-  - February 2024: [nguyenpanda](https://github.com/nguyenpanda/PyPackages) Packages
+  - February 2024: [**_nguyenpanda_** Package](https://github.com/nguyenpanda/PyPackages)
