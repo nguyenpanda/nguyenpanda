@@ -9,7 +9,7 @@
     I'm currently in my second year of studying
   </p>
   <p><strong>Computer Science</strong> at <a href="https://oisp.hcmut.edu.vn/"><strong>Ho Chi Minh City University of Technology</strong></a></p>
-  <!-- <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Queensland.icon.png"></code> <!--  Queensland -->
+  <!-- <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Queensland.icon.png"></code> <!-- Queensland -->
   <!-- <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/Monash.icon.png"></code> <!--  Monash -->
 
 # Skills ⚙️
@@ -41,4 +41,5 @@
   - March 2023: [Python Game](https://github.com/nguyenpanda/Learning-Python/blob/master/Small_Project_TN_Made/TheBigBookOfSmallPythonProject/Project1_BagelsGame.py)
   - April 2023: [Taylor series in Python](https://github.com/nguyenpanda/Learning-Python/blob/master/Small_Project_TN_Made/Math%20with%20Python/TaylorExpansion.py)
   - September 2023: [OISP English Club website](https://github.com/nguyenpanda/OECWebsite)
-  - Junuary 2024: [For the Love of Neural Networks](https://github.com/nguyenpanda/For-the-Love-of-Neural-Networks)
+  - January 2024: [For the Love of Neural Networks](https://github.com/nguyenpanda/For-the-Love-of-Neural-Networks)
+  - February 2024: [nguyenpanda](https://github.com/nguyenpanda/PyPackages) Packages
