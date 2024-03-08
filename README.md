@@ -43,3 +43,5 @@
   - September 2023: [OISP English Club website](https://github.com/nguyenpanda/OECWebsite)
   - January 2024: [For the Love of Neural Networks](https://github.com/nguyenpanda/For-the-Love-of-Neural-Networks)
   - February 2024: [**_nguyenpanda_** Package](https://github.com/nguyenpanda/PyPackages)
+  - February 2024: [kNN algorithm in Cpp](https://github.com/nguyenpanda/DSA-Assignment-1)
+  - March 2024: [Planing]()
