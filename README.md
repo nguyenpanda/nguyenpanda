@@ -44,4 +44,5 @@
   - January 2024: [For the Love of Neural Networks](https://github.com/nguyenpanda/For-the-Love-of-Neural-Networks)
   - February 2024: [**_nguyenpanda_** Package](https://github.com/nguyenpanda/PyPackages)
   - February 2024: [kNN algorithm in Cpp](https://github.com/nguyenpanda/DSA-Assignment-1)
-  - March 2024: [Planing]()
+  - April 2024: [Pokemon game (ongoing so it's private🔒)](https://github.com/RestingWiki/BiKipTramTrieu/tree/main)
+  - May 2024: [Calculator in Assembly MIPS32](https://github.com/nguyenpanda/MIPS32-Calculator)
