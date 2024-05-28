@@ -35,7 +35,7 @@
   <code><img height="30" src="https://github.com/nguyenpanda/nguyenpanda/blob/main/Image/SublimeText.icons.png"></code> <!-- Sublime Text -->
 
 # Experience 👨‍💻
-  - None
+  - None yet :< but I will gradually add to it over the next 1 to 2 years.
 
 # Project 💻
   - March 2023: [Python Game](https://github.com/nguyenpanda/Learning-Python/blob/master/Small_Project_TN_Made/TheBigBookOfSmallPythonProject/Project1_BagelsGame.py)
@@ -44,7 +44,9 @@
   - January 2024: [For the Love of Neural Networks](https://github.com/nguyenpanda/For-the-Love-of-Neural-Networks)
   - February 2024: [**_nguyenpanda_** Package](https://github.com/nguyenpanda/PyPackages)
   - February 2024: [kNN algorithm in Cpp (DSA assignment 1)](https://github.com/nguyenpanda/DSA-Assignment-1)
-  - April 2024: [Pokemon game (ongoing so it's private🔒)](https://github.com/RestingWiki/BiKipTramTrieu/tree/main)
+  - April 2024: [Pokemon game (ongoing so it's private🔒 | Update: the project has failed twice since May 2024🤡)](https://github.com/RestingWiki/BiKipTramTrieu/tree/main)
   - May 2024: [Calculator in Assembly MIPS32 (computer architecture assignment)](https://github.com/nguyenpanda/MIPS32-Calculator)
   - May 2024: [kNN using k-D Tree in Cpp (DSA assignment 2)](https://github.com/nguyenpanda/kNN-Algorithm_DSA-Assigment-2)
   - May 2024: [Computer Graphic](https://github.com/nguyenpanda/ComputerGraphic)
+
+#
