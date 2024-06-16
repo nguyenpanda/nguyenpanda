@@ -37,7 +37,7 @@
 # Experience 👨‍💻
   - None yet :< but I will gradually add to it over the next 1 to 2 years.
 
-# Project 💻
+# Projects 💻
   - March 2023: [Python Game](https://github.com/nguyenpanda/Learning-Python/blob/master/Small_Project_TN_Made/TheBigBookOfSmallPythonProject/Project1_BagelsGame.py)
   - April 2023: [Taylor series in Python](https://github.com/nguyenpanda/Learning-Python/blob/master/Small_Project_TN_Made/Math%20with%20Python/TaylorExpansion.py)
   - September 2023: [OISP English Club website](https://github.com/nguyenpanda/OECWebsite)
