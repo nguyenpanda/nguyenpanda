@@ -2,6 +2,8 @@
 
 # About me 🐼
 
+---
+
 - **My name:** [HA TUONG NGUYEN](https://www.facebook.com/HaTuongNguyenkute)👋
 - **Major:** Artificial Intelligence🧠
 - **Hobby:** Swimming🏊‍♂️
@@ -19,6 +21,8 @@
 [//]: # (<img height="40" src="Image/Monash.icon.png">)
 
 # Skills ⚙️
+
+---
 
 ### Programming Language
 
@@ -40,11 +44,12 @@
 <code><img height="40" src="Image/Matlab.icon.png"></code> <!-- MatLab -->
 <code><img height="40" src="Image/Arduino.icon.png"></code> <!-- Arduino -->
 
-# Experience 👨‍💻
-
-- None yet :< but I will gradually add to it over the next 1 to 2 years.
+[//]: # (# Experience 👨‍💻)
+[//]: # (- None yet :< but I will gradually add to it over the next 1 to 2 years.)
 
 # Projects 💻
+
+---
 
 - March
   2023: [Python Game](https://github.com/nguyenpanda/Learning-Python/blob/master/Small_Project_TN_Made/TheBigBookOfSmallPythonProject/Project1_BagelsGame.py)
@@ -62,6 +67,8 @@
 - May 2024: [Computer Graphic](https://github.com/nguyenpanda/ComputerGraphic)
 
 # Contact Information and Profiles 📧
+
+---
 
 <p align='center'>
 <a href="mailto:hatuongnguyen0107@gmail.com"><img height="50" src="Image/email_icon.png" alt="gmail logo"></a>&nbsp;&nbsp;
