@@ -55,7 +55,7 @@
 - February 2024: [**_nguyenpanda_** Package](https://github.com/nguyenpanda/PyPackages)
 - February 2024: [kNN algorithm in Cpp (DSA assignment 1)](https://github.com/nguyenpanda/DSA-Assignment-1)
 - April
-  2024: [Pokemon game (ongoing so it's private🔒 | Update: the project has failed twice since May 2024🤡)](https://github.com/RestingWiki/BiKipTramTrieu/tree/main)
+  2024: [The project has failed twice since May 2024🤡)](https://github.com/RestingWiki/BiKipTramTrieu/tree/main)
 - May
   2024: [Calculator in Assembly MIPS32 (computer architecture assignment)](https://github.com/nguyenpanda/MIPS32-Calculator)
 - May 2024: [kNN using k-D Tree in Cpp (DSA assignment 2)](https://github.com/nguyenpanda/kNN-Algorithm_DSA-Assigment-2)
