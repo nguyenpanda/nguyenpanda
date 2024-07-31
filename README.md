@@ -65,7 +65,7 @@
   2024: [Calculator in Assembly MIPS32 (computer architecture assignment)](https://github.com/nguyenpanda/MIPS32-Calculator)
 - May 2024: [kNN using k-D Tree in Cpp (DSA assignment 2)](https://github.com/nguyenpanda/kNN-Algorithm_DSA-Assigment-2)
 - May 2024: [Computer Graphic](https://github.com/nguyenpanda/ComputerGraphic)
-- July 2024: [AI from Scratch (Numpy only)](https://github.com/nguyenpanda/AI-from-scratch)
+- July 2024: [`florentino` (AI package from Scratch with Numpy)](https://github.com/nguyenpanda/florentino)
 
 # Contact Information and Profiles 📧
 
