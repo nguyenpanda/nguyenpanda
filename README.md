@@ -2,17 +2,25 @@
 
 # About me 🐼
 
+<!DOCTYPE html>
+<html lang="en">
+    <body>
+        <p><img alt="nguyenpanda logo" src="/logo_nguyenpanda/svg/nguyenpanda.svg" /></p>
+    </body>
+</html>
+
 ---
 
 - **My name:** [HA TUONG NGUYEN](https://www.facebook.com/HaTuongNguyenkute)👋
+- **Nickname:** `nguyenpanda`
 - **Major:** Artificial Intelligence🧠
-- **Hobby:** Swimming🏊‍♂️
+- **Hobby:** Coding anything from Scratch
 
 [//]: # (@formatter:off)
 
   <p align="left">
     <code><img height="40" src="Image/BKU.png" alt="HCMUT logo"></code>
-    I'm currently in my second year of studying
+    I'm currently in my third year of studying
   </p>
   <p><strong>Computer Science</strong> at <a href="https://oisp.hcmut.edu.vn/"><strong>Ho Chi Minh City University of Technology</strong></a></p>
 
@@ -31,6 +39,11 @@
 <code><img height="40" src="Image/C.icon.png"></code> <!-- C++ -->
 <code><img height="40" src="Image/Java.icon.png"></code> <!-- Java -->
 
+### ML & DL Framework
+
+<code><img height="40" src="Image/PyTorch.icon.png"></code> <!-- PyTorch -->
+<code><img height="40" src="Image/Tensorflow.icon.svg"></code> <!-- Tensorflow -->
+
 ### Tools
 
 <code><img height="40" src="Image/Git.icon.png"></code> <!-- Git -->
@@ -45,6 +58,7 @@
 <code><img height="40" src="Image/Arduino.icon.png"></code> <!-- Arduino -->
 
 [//]: # (# Experience 👨‍💻)
+
 [//]: # (- None yet :< but I will gradually add to it over the next 1 to 2 years.)
 
 # Projects 💻
@@ -58,13 +72,9 @@
 - September 2023: [OISP English Club website](https://github.com/nguyenpanda/OECWebsite)
 - January 2024: [For the Love of Neural Networks](https://github.com/nguyenpanda/For-the-Love-of-Neural-Networks)
 - February 2024: [`nguyenpanda` Package](https://github.com/nguyenpanda/PyPackages)
-- February 2024: [kNN algorithm in Cpp (DSA assignment 1)](https://github.com/nguyenpanda/DSA-Assignment-1)
 - April
   2024: [The project has failed twice since May 2024🤡](https://github.com/RestingWiki/BiKipTramTrieu/tree/main)
-- May
-  2024: [Calculator in Assembly MIPS32 (computer architecture assignment)](https://github.com/nguyenpanda/MIPS32-Calculator)
-- May 2024: [kNN using k-D Tree in Cpp (DSA assignment 2)](https://github.com/nguyenpanda/kNN-Algorithm_DSA-Assigment-2)
-- May 2024: [Computer Graphic](https://github.com/nguyenpanda/ComputerGraphic)
+- May 2024: [Computer Graphic (An animation screen on Terminal)](https://github.com/nguyenpanda/ComputerGraphic)
 - July 2024: [`florentino` (AI package from Scratch with Numpy)](https://github.com/nguyenpanda/florentino)
 
 # Contact Information and Profiles 📧
