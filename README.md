@@ -70,7 +70,7 @@
 - July 2024: [`florentino` (AI package from Scratch with Numpy)](https://github.com/nguyenpanda/florentino)
 - May 2024: [Computer Graphic (An animation screen on Terminal)](https://github.com/nguyenpanda/ComputerGraphic)
 - April 2024: [The project has failed twice since May 2024🤡](https://github.com/RestingWiki/BiKipTramTrieu/tree/main)
-- February 2024: [`nguyenpanda` Package](https://github.com/nguyenpanda/PyPackages)
+- February 2024: [`nguyenpanda` Python Package](https://github.com/nguyenpanda/nguyenpanda-py-package)
 - January 2024: [For the Love of Neural Networks](https://github.com/nguyenpanda/For-the-Love-of-Neural-Networks)
 - September 2023: [OISP English Club website](https://github.com/nguyenpanda/OECWebsite)
 - April 2023: [Taylor series in Python](https://github.com/nguyenpanda/Learning-Python/blob/master/Small_Project_TN_Made/Math%20with%20Python/TaylorExpansion.py)
