@@ -67,6 +67,8 @@
 
 [//]: # (@formatter:off)
 
+- Oct 2024: [`nguyenpanda` C++ Package](https://github.com/nguyenpanda/nguyenpanda-cpp-pacakge)
+- Sept 2024: [`syngen` Synthetic Data Generator (private repo)](https://github.com/nguyenpanda/syngen)
 - July 2024: [`florentino` (AI package from Scratch with Numpy)](https://github.com/nguyenpanda/florentino)
 - May 2024: [Computer Graphic (An animation screen on Terminal)](https://github.com/nguyenpanda/ComputerGraphic)
 - April 2024: [The project has failed twice since May 2024🤡](https://github.com/RestingWiki/BiKipTramTrieu/tree/main)
