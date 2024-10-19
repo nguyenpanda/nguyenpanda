@@ -67,6 +67,7 @@
 
 [//]: # (@formatter:off)
 
+- Oct 2024: [`autograd` (Calculating derivative of func with high accuracy and performance)](https://github.com/nguyenpanda/autograd)
 - Oct 2024: [`nguyenpanda` C++ Package](https://github.com/nguyenpanda/nguyenpanda-cpp-pacakge)
 - Sept 2024: [`syngen` Synthetic Data Generator (private repo)](https://github.com/nguyenpanda/syngen)
 - July 2024: [`florentino` (AI package from Scratch with Numpy)](https://github.com/nguyenpanda/florentino)
