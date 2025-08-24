@@ -47,7 +47,7 @@
 ### ML & DL Framework
 
 <code><img height="40" src="Image/PyTorch.icon.png"></code> <!-- PyTorch -->
-<code><img height="40" src="Image/Tensorflow.icon.svg"></code> <!-- Tensorflow -->
+<code><img height="40" src="Image/Tensorflow.icon.png"></code> <!-- Tensorflow -->
 
 ### Tools
 
@@ -58,7 +58,7 @@
 <code><img height="40" src="Image/SQL.icon.png"></code> <!-- SQL -->
 <code><img height="40" src="Image/NumPy.icon.png"></code> <!-- Numpy -->
 <code><img height="40" src="Image/Pandas.icon.png"></code> <!-- Pandas -->
-<code><img height="40" src="Image/Pydantic.icon.svg"></code> <!-- Pydantic -->
+<code><img height="40" src="Image/Pydantic.icon.png"></code> <!-- Pydantic -->
 <code><img height="40" src="Image/Matlab.icon.png"></code> <!-- MatLab -->
 <code><img height="40" src="Image/Arduino.icon.png"></code> <!-- Arduino -->
 
